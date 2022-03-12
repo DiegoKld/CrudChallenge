@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1647008461 source:c:\users\user\documents\desarrollo\cc++\crudchallenge\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Crud.h"
+	<conio.h>
+
+1647101537 c:\users\user\documents\desarrollo\cc++\crudchallenge\include\crud.h
+	<string.h>
+
+1647105793 source:c:\users\user\documents\desarrollo\cc++\crudchallenge\src\crud.cpp
+	<iostream>
+	<stdlib.h>
+	"Crud.h"
+	<string>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+
